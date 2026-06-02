@@ -1,0 +1,6 @@
+variable,Q1,Q3,IQR,lower_bound,upper_bound,outlier_count,outlier_percentage
+Medu,2.0,4.0,2.0,-1.0,7.0,0,0.0
+Fedu,1.0,3.0,2.0,-2.0,6.0,0,0.0
+studytime,1.0,2.0,1.0,-0.5,3.5,35,5.39
+absences,0.0,6.0,6.0,-9.0,15.0,21,3.24
+failures,0.0,0.0,0.0,0.0,0.0,100,15.41
