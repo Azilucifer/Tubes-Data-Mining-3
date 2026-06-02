@@ -1,8 +1,8 @@
 streamlit
 pandas
 numpy
-scikit-learn
-kmodes
 matplotlib
 seaborn
-pyngrok
+scikit-learn
+kmodes
+joblib
